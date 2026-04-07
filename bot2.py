@@ -10,7 +10,7 @@ from apscheduler.schedulers.asyncio import AsyncIOScheduler
 
 logging.basicConfig(level=logging.INFO)
 
-TOKEN = "8747515326:AAEhjuiA8mFKEkCVKQ_YbM2iPiMDVezrviU"
+TOKEN = "8676599620:AAGz20iFRxqbgZ6EISZSYNu31IDT2BIPjWI"
 
 MOSCOW_TZ = pytz.timezone("Europe/Moscow")
 DATE_MET = date(2024, 3, 27)
